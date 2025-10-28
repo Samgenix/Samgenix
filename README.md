@@ -100,7 +100,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [Portfolio Website](https://samgenix.github.io/portfolio-website/) *(coming soon)* | Personal site showcasing my projects and work | HTML, CSS, Bootstrap |
-| [Student Resource Portal](https://github.com/Samgenix/student-resource-portal) *(coming soon)* | Web app for students to share and manage resources | PHP, MySQL, Bootstrap |
+| [Student Resource Portal](https://github.com/Samgenix/student-resource-portal) *(in progress)* | Web app for students to share and manage resources | PHP, MySQL, Bootstrap |
 | [Helpdesk System (Java)](https://github.com/Samgenix/helpdesk-java) *(coming soon)* | Backend ticket tracker with database integration | Java, MySQL |
 | [Containerized Demo Service](#) *(coming soon)* | Microservice practice project using Docker | Java, Docker, Linux |
 
